@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Nak%20Github&fontAlign=50&animation=twinkling&fontSize=55&color=ADEFD1&fontColor=00203F)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Nak%20Github&fontAlign=50&animation=twinkling&fontSize=55&color=F9EBDE&fontColor=815854&rotate=10)
 <div align="center">
 </div>
 
