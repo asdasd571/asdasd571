@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Welcome%20to%20My%20Github%20%F0%9F%A4%97&fontAlign=50&fontAlignY=30&animation=twinkling&fontSize=55&color=0:f8b195,50:f67280,100:c06c84&desc=welcome%20my%20Github&descSize=40&descAlign=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Welcome%20to%20My%20Github%20%F0%9F%A4%97&fontAlign=50&fontAlignY=30&animation=twinkling&fontSize=55&color=0:f8b195,50:f67280,100:c06c84&desc=nak%20Github&descSize=40&descAlign=70&fontColor=ffffff)
 
 
 
