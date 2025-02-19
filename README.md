@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Welcome%20to%20My%20Github%20%F0%9F%A4%97&fontAlign=50&fontAlignY=30&animation=twinkling&fontSize=55&color=0:f8b195,50:f67280,100:c06c84&desc=nak%20Github&descSize=40&descAlign=70&fontColor=ffffff)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasdasd571%2Fasdasd571&count_bg=%2379C83D&title_bg=%236AA25B&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## 👀 About Me 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasdasd571%2Fasdasd571&count_bg=%2379C83D&title_bg=%236AA25B&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   #### :raising_hand: I am a student from South Korea.<br/>
   #### :fire: I aim to become a Back-end developer.<br/>
   #### :mortar_board: IT convergence, Ulsan University
