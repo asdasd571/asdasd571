@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 
-![header]([https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nak%20Github&fontAlign=50&animation=twinkling&fontSize=55&color=F9EBDE&fontColor=815854))
+![header]([[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nak%20Github&fontAlign=50&animation=twinkling&fontSize=55&color=F9EBDE&fontColor=815854)](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nak%20Github&fontAlign=50&animation=twinkling&fontSize=55&color=F9EBDE&fontColor=815854))
 <div align="center">
 </div>
 
