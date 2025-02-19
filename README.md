@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Nak%20Github&fontAlign=20&fontAlignY=10&animation=twinkling&fontSize=55&color=F9EBDE&fontColor=815854&desc=welcome%20my%20Github&descSize=40&descAlign=70&)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Nak%20Github&fontAlign=20&fontAlignY=30&animation=twinkling&fontSize=55&color=F9EBDE&fontColor=815854&desc=welcome%20my%20Github&descSize=40&descAlign=70&)
+
 
 <div align="center">
 </div>
