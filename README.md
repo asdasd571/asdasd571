@@ -66,7 +66,9 @@
   <br/>
 
   ## 🌱 Baekjoon stats 🌱
+  ### Python
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kng063312)](https://solved.ac/kng063312/)
+  ### Java
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skrrms063312)](https://solved.ac/skrrms063312/)
 </div>
 
