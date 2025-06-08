@@ -72,6 +72,10 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kng063312)](https://solved.ac/kng063312/)
   ### Java
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skrrms063312)](https://solved.ac/skrrms063312/)
+
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=skrrms063312&theme=dark) <!-- 다크모드 -->
+  <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=skrrms063312&theme=warm) 일반모드  -->
+  
 </div>
 
 <!--
