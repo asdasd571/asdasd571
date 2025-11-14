@@ -40,6 +40,18 @@
   <br/>
   -->  
   <br/>
+
+### 🌐 대외 수상
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20C997,100:2DD4BF&height=50&text=🏅%202025%20RealTon(해커톤)%20울산광역시의회%20의장상&fontSize=14&fontColor=ffffff"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:6366F1&height=50&text=💻%202025%20SW중심대학%20우수작품%20경진대회%20(수상%20예정)&fontSize=14&fontColor=ffffff"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E11D48,100:FB7185&height=50&text=🥇%202025%20K-해커톤%20최우수상&fontSize=14&fontColor=ffffff"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:34D399&height=50&text=🏆%202025%20UoU%20창의적%20종합설계%20고려대_컨소시엄%20장려상&fontSize=14&fontColor=ffffff"/>
+</p>
+
   
   ### Framework
   <!--Flask-->
