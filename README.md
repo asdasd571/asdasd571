@@ -51,6 +51,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:34D399&height=50&text=🏆%202025%20UoU%20창의적%20종합설계%20고려대_컨소시엄%20장려상&fontSize=14&fontColor=ffffff"/>
 </p>
 
+### 🥇AWS
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1bcf7a84-6cb1-4110-b644-2078f5f1a7ea" />
+
+
   
   ### Framework
   <!--Flask-->
