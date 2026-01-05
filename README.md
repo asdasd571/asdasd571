@@ -52,7 +52,7 @@
 </p>
 
 ### 🥇AWS
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/1bcf7a84-6cb1-4110-b644-2078f5f1a7ea" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1bcf7a84-6cb1-4110-b644-2078f5f1a7ea" />
 
 
   
