@@ -6,7 +6,7 @@
 **"안정적인 인프라와 효율적인 백엔드 아키텍처를 고민하는 개발자입니다."**
 
 🎓 IT Convergence, Ulsan University<br/>
-☁️ Interested in Backend Development, Cloud Engineering, and DevOps.<br/>
+☁️ Interested in Backend Development and DevOps.<br/>
 📫 Contact : kng063312@naver.com
 
 <br/>
@@ -46,7 +46,7 @@
 | 분류 | 기관 및 활동명 | 주요 내용 |
 | :---: | :--- | :--- |
 | 🏢 **Intern** | **한국전자통신연구원(ETRI)** | 기지국 정보 관리 CRUD API 개발 (2개월) |
-| 🏃‍♂️ **Club** | **UMC (University Make Us Challenge)** | 백엔드 개발 및 GitHub Actions 기반 CI/CD 파이프라인 구축 |
+| 🏃‍♂️ **Club** | **UMC (University Make Us Challenge)** | 여행 웹 서비스 게시판 CRUD API 개발 |
 
 <br/>
 
