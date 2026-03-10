@@ -77,7 +77,7 @@
 
 <br/><br/>
 
-<img src ="https://baekjoon-widget.vercel.app/api?name=skrrms063312&theme=ocean" alt="Baekjoon Myself">
+<img src ="https://baekjoon-widget.vercel.app/api?name=skrrms063312&theme=ocean&lang=java" alt="Baekjoon Myself">
 
 **🔥 Algorithm Solutions** <br/><a href="https://solved.ac/skrrms063312">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skrrms063312" alt="Java Baekjoon">
