@@ -71,7 +71,7 @@
 <br/><br/>
 
 ### 🥇 Certification
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d6776d5-b04e-45c2-972b-74a8ff7d9591" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2d6776d5-b04e-45c2-972b-74a8ff7d9591" />
 
 
 
