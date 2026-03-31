@@ -14,17 +14,23 @@
 ### 🛠️ Tech Stack
 
 **Languages** <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<br/>
 
 **Backend** <br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/SpringBoot-2BA977?style=for-the-badge&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-2BA977?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
+<br/>
+
 **Database** <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<br/>
 
 **Infra & DevOps** <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -32,6 +38,7 @@
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_VPC-00A4A6?style=for-the-badge&logo=amazonaws&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Elastic_Beanstalk-F3A333?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_ACM-1D5127?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -39,6 +46,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 
+<br/>
 ### 🚀 Experience & Projects
 
 **💼 Experience & Activities**
