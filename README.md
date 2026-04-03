@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 
 <br/>
-### 🚀 Experience & Projects
+🚀 Experience & Projects
 
 **💼 Experience & Activities**
 
