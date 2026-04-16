@@ -87,7 +87,8 @@
 
 **🔥 Algorithm Solutions** <br/><a href="https://solved.ac/skrrms063312">
 
-<img src ="https://baekjoon-widget.vercel.app/api?name=skrrms063312&theme=ocean&lang=java" alt="Baekjoon Myself">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skrrms063312)](https://solved.ac/skrrms063312/)
+
 
 <!--
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skrrms063312" alt="Java Baekjoon">
@@ -96,8 +97,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kng063312" alt="Python Baekjoon">
 </a>
 -->
-
-<br/>
-<img src="http://mazandi.herokuapp.com/api?handle=skrrms063312&theme=dark" alt="mazandi profile">
 
 </div>
