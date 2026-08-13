@@ -75,7 +75,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:6366F1&height=40&text=💻%202025%20대경권%20프로그래밍%20경진대회%20우수상&fontSize=14&fontColor=ffffff"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:FCD34D&height=40&text=🏆%202025%20SW중심대학%20우수작품%20경진대회%20한컴%20기업후원상&fontSize=14&fontColor=ffffff"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:34D399&height=40&text=💡%202025%20UoU%20창의적%20종합설계%20장려상&fontSize=14&fontColor=ffffff"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:34D399&height=40&text=💡%202026%20stdev%20과학축제%20최우수상(카이스트 총장상)&fontSize=14&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:34D399&height=40&text=💡%202026%20stdev%20과학축제%20최우수상(카이스트%20총장상)&fontSize=14&fontColor=ffffff"/>
 
 <br/><br/>
 
