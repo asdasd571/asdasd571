@@ -138,9 +138,8 @@
 
 ## 🥇 Certification
 
-<div align="left">
-  <img width="90" height="90" alt="Certification" src="https://github.com/user-attachments/assets/2d6776d5-b04e-45c2-972b-74a8ff7d9591" />
-</div>
+- AWS Certified Solutions Architect - Associate 2026
+- 정보처리기사 2025
 
 ---
 
