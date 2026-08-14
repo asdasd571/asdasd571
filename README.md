@@ -148,12 +148,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skrrms063312)](https://solved.ac/skrrms063312/)
 
----
-
-<div align="center">
-
-### 📫 Contact
-
-**Email** · kng063312@naver.com
-
-</div>
