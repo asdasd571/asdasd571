@@ -140,6 +140,7 @@
 
 - AWS Certified Solutions Architect - Associate 2026
 - 정보처리기사 2025
+- TOPCIT LEVEL 4
 
 ---
 
